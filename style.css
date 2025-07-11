@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* header style */
 .header {
-    background-image: url(../assets/Hero-bg.png);
+    background-image: url(assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
